@@ -290,21 +290,18 @@ class Assigment1DIS
         int n2 = 6;
         PrintSeries(n2);
         Console.WriteLine("");
-        Console.WriteLine("");
 
-        string s = "01:28:15AM";
+        string s = "09:15:35PM";
         string t = UsfTime(s);
-        Console.WriteLine(" ");
+        Console.WriteLine("");
 
         int n3 = 110;
         int k = 11;
         UsfNumbers(n3, k);
         Console.WriteLine("");
-        Console.WriteLine("");
 
         string[] words = new string[] { "abcd", "dcba", "lls", "s", "sssll" };
         PalindromePairs(words);
-        Console.WriteLine("");
         Console.WriteLine("");
 
         int n4 = 15;
